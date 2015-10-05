@@ -4,17 +4,7 @@
     using System.Collections.Generic;
     using System.IO;
     using System.Linq;
-    using System.Threading;
-    /*internal static class Ext
-    {
-        public static void When<T>(this IEnumerable<T> list, bool ifTrue, Action thenExecute)
-        {
-            if (ifTrue)
-            {
-                thenExecute.Invoke();
-            }
-        }
-    }*/
+    using System.Threading;    
 
     /// <summary>
     /// entry point. Contains the Main Method to call the Image To Test class.
